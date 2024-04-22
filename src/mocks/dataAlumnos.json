@@ -1,0 +1,63 @@
+[
+    {
+      "apellido": "Santaella",
+      "nombre": "Alejandro",
+      "matricula": "223323",
+      "notas": 6
+    },
+    {
+      "apellido": "González",
+      "nombre": "María",
+      "matricula": "223324",
+      "notas": 8
+    },
+    {
+      "apellido": "Pérez",
+      "nombre": "Juan",
+      "matricula": "223325",
+      "notas": 7
+    },
+    {
+      "apellido": "López",
+      "nombre": "Ana",
+      "matricula": "223326",
+      "notas": 9
+    },
+    {
+      "apellido": "Martínez",
+      "nombre": "Pedro",
+      "matricula": "223327",
+      "notas": 5
+    },
+    {
+      "apellido": "Sánchez",
+      "nombre": "Laura",
+      "matricula": "223328",
+      "notas": 8
+    },
+    {
+      "apellido": "Gómez",
+      "nombre": "Carlos",
+      "matricula": "223329",
+      "notas": 6
+    },
+    {
+      "apellido": "Díaz",
+      "nombre": "Luisa",
+      "matricula": "223330",
+      "notas": 7
+    },
+    {
+      "apellido": "Rodríguez",
+      "nombre": "Elena",
+      "matricula": "223331",
+      "notas": 9
+    },
+    {
+      "apellido": "Fernández",
+      "nombre": "Diego",
+      "matricula": "223332",
+      "notas": 8
+    }
+  ]
+  
